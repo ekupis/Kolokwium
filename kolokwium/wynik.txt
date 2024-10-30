@@ -1,2 +1,3 @@
 echo Ewa Kupis
 echo date
+Kolokwium zdane!
